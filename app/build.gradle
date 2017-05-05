@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.devprovider.buildvariantssample"
+        applicationId "com.therightsw.buildvariantssample"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -22,17 +22,17 @@ android {
 
     productFlavors {
         mango {
-            applicationId "com.devprovider.mango"
+            applicationId "com.therightsw.mango"
             versionCode 1
             versionName "1.0"
         }
         blueberry {
-            applicationId "com.devprovider.blueberry"
+            applicationId "com.therightsw.blueberry"
             versionCode 1
             versionName "1.0"
         }
         orange {
-            applicationId "com.devprovider.orange"
+            applicationId "com.therightsw.orange"
             versionCode 1
             versionName "1.0"
         }

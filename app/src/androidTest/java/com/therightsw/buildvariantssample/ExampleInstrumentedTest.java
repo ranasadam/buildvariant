@@ -1,4 +1,4 @@
-package com.devprovider.buildvariantssample;
+package com.therightsw.buildvariantssample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

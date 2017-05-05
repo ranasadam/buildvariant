@@ -1,4 +1,4 @@
-package com.devprovider.buildvariantssample;
+package com.therightsw.buildvariantssample;
 
 import org.junit.Test;
 

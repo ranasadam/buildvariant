@@ -1,4 +1,4 @@
-package com.devprovider.buildvariantssample;
+package com.therightsw.buildvariantssample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
